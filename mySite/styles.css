@@ -1,0 +1,67 @@
+.menu
+{
+    position: absolute;
+    background-color: white;
+    border-radius: 44px;
+    height: 500px;
+    width: 300px;
+    opacity: 0.5;
+    top: 60px;
+    left: 70%;
+}
+.IP
+{
+    position: absolute;
+    background-color: white;
+    border-radius: 44px;
+    height: 70px;
+    width: 250px;
+    opacity: 0.5;
+    top: 150px;
+    left: 72.5%;
+    text-align: center;
+}
+.IP1
+{
+    position: absolute;
+    background-color: white;
+    border-radius: 44px;
+    height: 70px;
+    width: 250px;
+    opacity: 0.5;
+    top: 250px;
+    left: 72.5%;
+    text-align: center;
+}
+.IP2
+{
+    position: absolute;
+    background-color: white;
+    border-radius: 44px;
+    height: 70px;
+    width: 250px;
+    opacity: 0.5;
+    top: 350px;
+    left: 72.5%;
+    text-align: center;
+}
+.IP3
+{
+    position: absolute;
+    background-color: white;
+    border-radius: 44px;
+    height: 70px;
+    width: 250px;
+    opacity: 0.5;
+    top: 450px;
+    left: 72.5%;
+    text-align: center;
+}
+.logo
+{
+    position: absolute;
+    top: 250px;
+    left: 40%;
+    height: 300px;
+}
+
